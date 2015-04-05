@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wear水準器</string>
+    <string name="message">インストールして頂きありがとうございます\n
+水準器があなたのWearデバイスにインストールされます</string>
+
+</resources>

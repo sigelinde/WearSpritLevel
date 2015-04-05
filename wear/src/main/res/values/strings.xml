@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spirit Level</string>
+    <string name="set_zero">Zero Point Reset</string>
+    <string name="loading">Tap to start</string>
+
+</resources>
